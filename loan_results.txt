@@ -1,0 +1,35 @@
+Loan Payment Report
+===============================
+
+loan1:
+Interest Rate:    9.89%
+Loan Duration:    5.0 years
+Amount Borrowed: $10,000.00
+Monthly Payment: $211.93
+Total Interest:  $2,715.78
+Total Paid:      $12,715.78
+
+loan2:
+Interest Rate:    11.90%
+Loan Duration:    2.0 years
+Amount Borrowed: $35,000.00
+Monthly Payment: $1,645.94
+Total Interest:  $4,502.50
+Total Paid:      $39,502.50
+
+loan3:
+Interest Rate:    4.50%
+Loan Duration:    15.0 years
+Amount Borrowed: $300,000.00
+Monthly Payment: $2,294.98
+Total Interest:  $113,096.38
+Total Paid:      $413,096.38
+
+loan4:
+Interest Rate:    8.25%
+Loan Duration:    3.0 years
+Amount Borrowed: $15,000.00
+Monthly Payment: $471.78
+Total Interest:  $1,983.98
+Total Paid:      $16,983.98
+
